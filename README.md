@@ -25,6 +25,10 @@ curl -fsSL https://raw.githubusercontent.com/eooce/ssh_tool/main/ssh_tool.sh -o 
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sb_serv00.sh)
 ```
+我的一键四协议安装脚本vmess-ws|vmess-ws-tls(argo)|hy2|tuic5
+```
+bash <(curl -Ls https://raw.githubusercontent.com/IIOSO/serv00vps-one-click-four-in-one-script/main/sb_serv00.sh)
+```
 
 一键三协议安装脚本vless-reality|hy2|tuic5 
 ```
